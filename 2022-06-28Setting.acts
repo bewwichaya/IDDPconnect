@@ -1,0 +1,4763 @@
+{
+  "AdditionDataViewData": {
+    "AutoSearchCanBus": true,
+    "AutoSearchJ1850": true,
+    "AutoSearchKLLine": true,
+    "CalFuelOnMaf": true,
+    "CalFuelOnMapIat": false,
+    "J1708DataFields": [
+      {
+        "Index": 0,
+        "Value": "%ZO1"
+      },
+      {
+        "Index": 1,
+        "Value": "%ZO2"
+      },
+      {
+        "Index": 2,
+        "Value": "%ZO3"
+      },
+      {
+        "Index": 3,
+        "Value": "%ZO4"
+      },
+      {
+        "Index": 4,
+        "Value": "%ZO5"
+      },
+      {
+        "Index": 5,
+        "Value": "%ZO6"
+      },
+      {
+        "Index": 6,
+        "Value": "%ZO7"
+      },
+      {
+        "Index": 7,
+        "Value": "%ZO8"
+      },
+      {
+        "Index": 8,
+        "Value": "%ZO9"
+      },
+      {
+        "Index": 9,
+        "Value": "%ZO10"
+      },
+      {
+        "Index": 10,
+        "Value": "%ZO11"
+      },
+      {
+        "Index": 11,
+        "Value": "%ZO12"
+      },
+      {
+        "Index": 12,
+        "Value": "%ZO13"
+      },
+      {
+        "Index": 13,
+        "Value": "%ZO14"
+      },
+      {
+        "Index": 14,
+        "Value": "%ZO15"
+      },
+      {
+        "Index": 15,
+        "Value": "%ZO16"
+      },
+      {
+        "Index": 16,
+        "Value": "%ZO17"
+      },
+      {
+        "Index": 17,
+        "Value": "%ZH1"
+      },
+      {
+        "Index": 18,
+        "Value": "%ZH2"
+      },
+      {
+        "Index": 19,
+        "Value": "%ZH3"
+      },
+      {
+        "Index": 20,
+        "Value": "%ZL1"
+      },
+      {
+        "Index": 21,
+        "Value": "%ZL2"
+      },
+      {
+        "Index": 22,
+        "Value": "%ZL3"
+      },
+      {
+        "Index": 23,
+        "Value": "%ZL4"
+      },
+      {
+        "Index": 24,
+        "Value": "%ZS1"
+      }
+    ],
+    "J1939BaudRateIndex": 0,
+    "J1939DataFields": [
+      {
+        "Index": 0,
+        "Value": "%JO1"
+      },
+      {
+        "Index": 1,
+        "Value": "%JO2"
+      },
+      {
+        "Index": 2,
+        "Value": "%JO3"
+      },
+      {
+        "Index": 3,
+        "Value": "%JO4"
+      },
+      {
+        "Index": 4,
+        "Value": "%JO5"
+      },
+      {
+        "Index": 5,
+        "Value": "%JO6"
+      },
+      {
+        "Index": 6,
+        "Value": "%JO7"
+      },
+      {
+        "Index": 7,
+        "Value": "%JO8"
+      },
+      {
+        "Index": 8,
+        "Value": "%JO9"
+      },
+      {
+        "Index": 9,
+        "Value": "%JO10"
+      },
+      {
+        "Index": 10,
+        "Value": "%JO11"
+      },
+      {
+        "Index": 11,
+        "Value": "%JO12"
+      },
+      {
+        "Index": 12,
+        "Value": "%JH1"
+      },
+      {
+        "Index": 13,
+        "Value": "%JH2"
+      },
+      {
+        "Index": 14,
+        "Value": "%JH3"
+      },
+      {
+        "Index": 15,
+        "Value": "%JH4"
+      },
+      {
+        "Index": 16,
+        "Value": "%JH5"
+      },
+      {
+        "Index": 17,
+        "Value": "%JH6"
+      },
+      {
+        "Index": 18,
+        "Value": "%JH7"
+      },
+      {
+        "Index": 19,
+        "Value": "%JH8"
+      },
+      {
+        "Index": 20,
+        "Value": "%JH9"
+      },
+      {
+        "Index": 21,
+        "Value": "%JH10"
+      },
+      {
+        "Index": 22,
+        "Value": "%JH11"
+      },
+      {
+        "Index": 23,
+        "Value": "%JH12"
+      },
+      {
+        "Index": 24,
+        "Value": "%JL1"
+      },
+      {
+        "Index": 25,
+        "Value": "%JL2"
+      },
+      {
+        "Index": 26,
+        "Value": "%JL3"
+      },
+      {
+        "Index": 27,
+        "Value": "%JL4"
+      },
+      {
+        "Index": 28,
+        "Value": "%JS1"
+      },
+      {
+        "Index": 29,
+        "Value": "%JS2"
+      },
+      {
+        "Index": 30,
+        "Value": "%JS3"
+      },
+      {
+        "Index": 31,
+        "Value": "%JS4"
+      },
+      {
+        "Index": 32,
+        "Value": "%JN1"
+      },
+      {
+        "Index": 33,
+        "Value": "%JN2"
+      },
+      {
+        "Index": 34,
+        "Value": "%JN3"
+      },
+      {
+        "Index": 35,
+        "Value": "%JN4"
+      },
+      {
+        "Index": 36,
+        "Value": "%JN5"
+      }
+    ],
+    "MPAutoScan": true,
+    "NotMPAutoScan": false,
+    "NotSearchCanBus": false,
+    "NotSearchJ1850": false,
+    "NotSearchKLLine": false,
+    "ProtocolIndex": 0,
+    "RS485DeviceCmd_1": null,
+    "RS485DeviceCmd_2": null,
+    "RS485DeviceCmd_3": null,
+    "RS485DeviceCmd_4": null,
+    "RS485DeviceCmd_5": null,
+    "RS485DeviceCmd_6": null,
+    "RS485Enable": false,
+    "SelectedJ1708DataFields": [ ],
+    "SelectedJ1939DataFields": [ ],
+    "SelectedPosReportDataFields": [ ]
+  },
+  "AdvCommViewData": {
+    "AutoSwitchDisable": true,
+    "AutoSwitchEnable": false,
+    "BTAck": 0,
+    "BTCustom": "",
+    "BTFilter": 0,
+    "BTFormat": 0,
+    "BTJField": "",
+    "BTName": "",
+    "BTPassword": "",
+    "BTRetry": 3,
+    "BTTimeout": 10,
+    "BTZField": "",
+    "ChannelIndex": 0,
+    "Custom_": false,
+    "Dns": "0.0.0.0",
+    "EncryptKey": "password",
+    "EncryptType": 2,
+    "FollowTRAC_": true,
+    "Gateway": "0.0.0.0",
+    "GprsNetworkTimeout": "10",
+    "HostAddress": "",
+    "HostPort": "0",
+    "IPFCBlackListEnable": false,
+    "IPFCDisable": true,
+    "IPFCWhiteListEnable": false,
+    "IPList": [
+      {
+        "Index": 1,
+        "Value": ""
+      }
+    ],
+    "KeepAliveDisable": true,
+    "KeepAliveEnable": false,
+    "KeepAliveMsgPeriod": "1",
+    "LocalIp": "0.0.0.0",
+    "MDSCCurDownUse": "0",
+    "MDSCCurUpUse": "0",
+    "MDSCMaxDownUse": "0",
+    "MDSCMaxUpUse": "0",
+    "MDSCMaxUse": "0",
+    "MDSCResetTime": "0",
+    "ReportAckDisable": false,
+    "ReportAckEnable": true,
+    "ReportingInterval": "0",
+    "Ssid": "ATRACK_WIFI",
+    "SsidIndex": "0",
+    "SubnetMask": "0.0.0.0",
+    "TrackingReportOnly": false,
+    "UserDefReportOnly": true,
+    "UssdCmdPrefix": "",
+    "WifiClients": 1,
+    "WifiDNS": "",
+    "WifiDisable": true,
+    "WifiEnable": false
+  },
+  "AdvSysViewData": {
+    "AccOnCtrl": false,
+    "AnalogInputMode": 1,
+    "BatteryDelayTime": "1",
+    "BatteryOff": true,
+    "BatteryOn": false,
+    "ChargerOff": false,
+    "DelayForBatteryDisable": true,
+    "DelayForBatteryEnable": false,
+    "DieselEngine": false,
+    "DlstDisable": true,
+    "DlstEnable": false,
+    "DlstEndDay": 0,
+    "DlstEndHour": 7,
+    "DlstEndMonth": 10,
+    "DlstEndWeek": 0,
+    "DlstStartDay": 0,
+    "DlstStartHour": 7,
+    "DlstStartMonth": 2,
+    "DlstStartWeek": 1,
+    "EngineDisplacement": "2000",
+    "ExternalPowerSrc": true,
+    "FuelResetWhenAccTransit": false,
+    "FuelResetWhenEngineTransit": false,
+    "FuelUsedValue": "0",
+    "GpsFirstFixCtrl": false,
+    "InternalBattery": false,
+    "NmeaGpgga": false,
+    "NmeaGpgll": false,
+    "NmeaGpgsa": false,
+    "NmeaGpgsv": false,
+    "NmeaGprmc": false,
+    "NmeaGpvtg": false,
+    "OdomResetWhenAccTransit": false,
+    "OdomResetWhenEngineTransit": false,
+    "OdomValue": "0",
+    "PetrolEngine": true,
+    "RpmDisable": true,
+    "RpmEnable": false,
+    "RpmValue": "0",
+    "SamplingTime": "1",
+    "SignalSource": 0,
+    "SpeedSensorDisable": true,
+    "SpeedSensorEnable": false,
+    "SpeedSensorValue": "0",
+    "UseCanBusKitValue": false,
+    "UseOdomAccumulation": false,
+    "VolumetricEfficiency": "80"
+  },
+  "CommViewData": {
+    "Apn": "",
+    "BaseSmsNumber": "",
+    "GprsDisable": false,
+    "GprsEnable": true,
+    "HostAddress": "0.0.0.0",
+    "HostPort": "0",
+    "KeepAliveDisable": false,
+    "KeepAliveEnable": true,
+    "KeepAliveMsgPeriod": "5",
+    "KeepGprsAndUmtsConnect": false,
+    "NotPrefMode": 1,
+    "NotPrefMultiplier": "2",
+    "Password": "",
+    "PrefMode": 1,
+    "PrefMultiplier": "2",
+    "ProviderCodes": [
+      {
+        "Index": 1,
+        "Value": ""
+      }
+    ],
+    "ReportAckDisable": true,
+    "ReportAckEnable": false,
+    "RetryNum": "3",
+    "RetryTimeout": "10",
+    "SecondHostAddress": "0.0.0.0",
+    "SmsInsteadDisable": true,
+    "SmsInsteadEnable": false,
+    "SmsNumber1": "",
+    "SmsNumber2": "",
+    "SmsNumber3": "",
+    "SocketTcp": true,
+    "SocketUdp": false,
+    "StopGprsAndUmtsConnect": false,
+    "StopSmsSending": false,
+    "UdpLocalPost": "54088",
+    "UserName": ""
+  },
+  "CtrlAndAppViewData": {
+    "AcceptedIds": [
+      {
+        "Index": 1,
+        "Value": ""
+      }
+    ],
+    "AcceptedInCall1": "",
+    "AcceptedInCall2": "",
+    "AcceptedInCall3": "",
+    "AcceptedNum1": "",
+    "AcceptedNum2": "",
+    "AcceptedNum3": "",
+    "AcceptedOutCall1": "",
+    "AcceptedOutCall2": "",
+    "AcceptedOutCall3": "",
+    "AutoAnswer": false,
+    "BuzzerOutputCtrl": false,
+    "BuzzerOutputId": 0,
+    "DialOutNum": "",
+    "DigitalOutputCtrl": false,
+    "DigitalOutputId": 1,
+    "DisplayIOParam1": true,
+    "DisplayIOParam2": true,
+    "DisplayIOParam3": true,
+    "DisplayIOParam4": false,
+    "IOParam1Index": 0,
+    "IOParam1Items": [
+      {
+        "Index": 1,
+        "Value": "1: Input 1 (VSS, Pluse counter)"
+      },
+      {
+        "Index": 4,
+        "Value": "4: 1-Wire Data"
+      }
+    ],
+    "IOParam1Name": "I\/O 1",
+    "IOParam2Index": 0,
+    "IOParam2Items": [
+      {
+        "Index": 1,
+        "Value": "1: Input 2"
+      },
+      {
+        "Index": 2,
+        "Value": "2: Output 1"
+      },
+      {
+        "Index": 3,
+        "Value": "3: Analog Input"
+      }
+    ],
+    "IOParam2Name": "I\/O 2",
+    "IOParam3Index": 0,
+    "IOParam3Items": [
+      {
+        "Index": 1,
+        "Value": "1: Input 3 (RPM)"
+      },
+      {
+        "Index": 2,
+        "Value": "2: Output 2"
+      }
+    ],
+    "IOParam3Name": "I\/O 3",
+    "IOParam4Index": 1,
+    "IOParam4Items": [ ],
+    "IOParam4Name": "I\/O 4",
+    "IncomingMode": 0,
+    "LoggingForIdAuth": false,
+    "LoggingForOutgoingCtrl": false,
+    "ManualAnswer": true,
+    "MicrophoneGain": "0",
+    "OutgoingCtrl": 0,
+    "OutgoingMode": 0,
+    "OutputDelay": "10",
+    "ReportForOutgoingCtrl": false,
+    "ReportOnAnthIdScan": false,
+    "ReportOnUnauthIdScan": false,
+    "ReportToSerialPort": false,
+    "RetainAuthorizedIDInTrackingReport": false,
+    "ReverseDigitalOutputCtrl": false,
+    "RingerVol": 1,
+    "SendReportToIssuer": false,
+    "SendReportToServer": false,
+    "SpeakerVol": "0"
+  },
+  "LogAndReportViewData": {
+    "AccStatus": false,
+    "DistanceSpan": "20",
+    "HeadingChangeDegree": "15",
+    "HeadingChangeMode": false,
+    "HoursFromMidnight1": 0,
+    "HoursFromMidnight2": 0,
+    "HoursFromMidnight3": 0,
+    "IsSupportScheduleID": false,
+    "LogAsTrac": true,
+    "MinSpeed": "0",
+    "MinSpeedMode": false,
+    "MinutesFromMidnight1": 0,
+    "MinutesFromMidnight2": 0,
+    "MinutesFromMidnight3": 0,
+    "Schedule1": false,
+    "Schedule2": false,
+    "Schedule3": false,
+    "Schedule4": false,
+    "Schedule5": false,
+    "Schedule6": false,
+    "Schedule7": false,
+    "Schedule8": false,
+    "ScheduleID": 0,
+    "ScheduledReportDisable": true,
+    "ScheduledReportEnable": false,
+    "TimeSpan": "30",
+    "TimeMode": false,
+    "DistanceMode": false
+  },
+  "ScheduleDlgDatas": [
+    {
+      "Duration": "0",
+      "Friday": false,
+      "InputIndex": 1,
+      "Monday": false,
+      "Saturday": false,
+      "StartHourIndex": 0,
+      "StartMinuteIndex": 0,
+      "Sunday": false,
+      "Thursday": false,
+      "Tuesday": false,
+      "Wednesday": false
+    },
+    {
+      "Duration": "0",
+      "Friday": false,
+      "InputIndex": 2,
+      "Monday": false,
+      "Saturday": false,
+      "StartHourIndex": 0,
+      "StartMinuteIndex": 0,
+      "Sunday": false,
+      "Thursday": false,
+      "Tuesday": false,
+      "Wednesday": false
+    },
+    {
+      "Duration": "0",
+      "Friday": false,
+      "InputIndex": 3,
+      "Monday": false,
+      "Saturday": false,
+      "StartHourIndex": 0,
+      "StartMinuteIndex": 0,
+      "Sunday": false,
+      "Thursday": false,
+      "Tuesday": false,
+      "Wednesday": false
+    },
+    {
+      "Duration": "0",
+      "Friday": false,
+      "InputIndex": 4,
+      "Monday": false,
+      "Saturday": false,
+      "StartHourIndex": 0,
+      "StartMinuteIndex": 0,
+      "Sunday": false,
+      "Thursday": false,
+      "Tuesday": false,
+      "Wednesday": false
+    },
+    {
+      "Duration": "0",
+      "Friday": false,
+      "InputIndex": 5,
+      "Monday": false,
+      "Saturday": false,
+      "StartHourIndex": 0,
+      "StartMinuteIndex": 0,
+      "Sunday": false,
+      "Thursday": false,
+      "Tuesday": false,
+      "Wednesday": false
+    },
+    {
+      "Duration": "0",
+      "Friday": false,
+      "InputIndex": 6,
+      "Monday": false,
+      "Saturday": false,
+      "StartHourIndex": 0,
+      "StartMinuteIndex": 0,
+      "Sunday": false,
+      "Thursday": false,
+      "Tuesday": false,
+      "Wednesday": false
+    },
+    {
+      "Duration": "0",
+      "Friday": false,
+      "InputIndex": 7,
+      "Monday": false,
+      "Saturday": false,
+      "StartHourIndex": 0,
+      "StartMinuteIndex": 0,
+      "Sunday": false,
+      "Thursday": false,
+      "Tuesday": false,
+      "Wednesday": false
+    },
+    {
+      "Duration": "0",
+      "Friday": false,
+      "InputIndex": 8,
+      "Monday": false,
+      "Saturday": false,
+      "StartHourIndex": 0,
+      "StartMinuteIndex": 0,
+      "Sunday": false,
+      "Thursday": false,
+      "Tuesday": false,
+      "Wednesday": false
+    }
+  ],
+  "SecurityViewData": {
+    "EncryptEnable": false,
+    "EncryptKey": "",
+    "KeyType": 0
+  },
+  "SysViewData": {
+    "AccOff": false,
+    "AnySleepModeEnabled": false,
+    "AwakeDuration": "1",
+    "ChargeInternalBattery": false,
+    "CommTransactOff": false,
+    "CounterBeforeSleepEnabled": true,
+    "DeepSleepDuration": "1",
+    "DeepSleepDurationEnabled": true,
+    "DeepSleepMode": false,
+    "DeepSleepModeEnabled": true,
+    "EngineOff": false,
+    "GprsKeepAlive": false,
+    "HeaderPrefix": "@P",
+    "IgnoreMotionDetect": false,
+    "IgnoreMotionDetectionEnabled": true,
+    "IgnorePowerLostDetect": false,
+    "IgnorePowerLostDetectionEnabled": true,
+    "MotionOff": false,
+    "PeriodicWakeup": false,
+    "PinCode": "",
+    "PositionFormat": 1,
+    "ReadableTimeFormat": false,
+    "Rs232Enable": false,
+    "SleepDuration": "1",
+    "SleepDurationEnabled": true,
+    "SleepMode": false,
+    "SleepModeEnabled": true,
+    "UnixTimeFormat": true
+  },
+  "TrackingViewData": {
+    "AccOffTime": "0",
+    "DistanceSpan": "100",
+    "DstBluetooth": false,
+    "DstGprs": true,
+    "DstSerial": false,
+    "DstSms": false,
+    "DstUssd": false,
+    "EngineOffTime": "0",
+    "HeadingChangeDegree": "15",
+    "MinSpeed": "0",
+    "NotTrackingForever": false,
+    "Schedule1": false,
+    "Schedule2": false,
+    "Schedule3": false,
+    "Schedule4": false,
+    "Schedule5": false,
+    "Schedule6": false,
+    "Schedule7": false,
+    "Schedule8": false,
+    "TimeSpan": "30",
+    "TrackingTimes": "0",
+    "TimeMode": true,
+    "DistanceMode": false,
+    "AccStatus": true,
+    "HeadingChangeMode": false,
+    "MinSpeedMode": false,
+    "EngineStatus": false,
+    "MotionStatus": false,
+    "TrackingWhenAllMet": true,
+    "TrackingWhenAnyMet": false,
+    "ResetTrackingTimer": false,
+    "ReportInDistanceMode": false,
+    "GenerateReportGPS": false,
+    "ReportInHeadingChangeMode": false
+  },
+  "UserDefReportViewData": {
+    "ActionDlgDatas": [
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 1,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 2,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 3,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 4,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 5,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 6,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 7,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 8,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 9,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      },
+      {
+        "ActionDesc": "No action setting.",
+        "CMOSCameraSnapShot": false,
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstIncomingNumber": false,
+        "DstSMSNo1": false,
+        "DstSMSNo2": false,
+        "DstSMSNo3": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "InputIndex": 10,
+        "Logging": false,
+        "NewStateDuration": "0",
+        "NewStateOff": true,
+        "NewStateOn": false,
+        "OppositeDuration": "0",
+        "OutputCtrl": false,
+        "OutputId": "1",
+        "OutputIdList": [
+          "1",
+          "2"
+        ],
+        "RepeatTimes": "0",
+        "Reporting": false,
+        "TrackingCtrl": false,
+        "TrackingIndex": 0
+      }
+    ],
+    "AnalogChangeDlgDatas": [
+      {
+        "InputIndex": 1,
+        "ThresholdDuration": "30",
+        "VoltageThreshold": "10000"
+      }
+    ],
+    "AnalogInputDlgDatas": [
+      {
+        "HighDuration": "30",
+        "HighThreshold": "10000",
+        "InputIndex": 1,
+        "LowDuration": "30",
+        "LowThreshold": "5000"
+      }
+    ],
+    "EngineDlgData": {
+      "OffDuration": "30",
+      "OffThreshold": "125",
+      "OnDuration": "30",
+      "OnThreshold": "140"
+    },
+    "FuelSensorDlgData": {
+      "CheckDuration": "2",
+      "ReportDisable": true,
+      "ReportEnable": false,
+      "ScaleChanged": "200",
+      "Timeout": "5"
+    },
+    "GeofenceDlgDatas": [
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 1,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 2,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 3,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 4,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 5,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 6,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 7,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 8,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 9,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 10,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 11,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 12,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 13,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 14,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 15,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 16,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 17,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 18,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 19,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 20,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 21,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 22,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 23,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 24,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 25,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 26,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 27,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 28,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 29,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 30,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 31,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      },
+      {
+        "CirclePoint": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          }
+        ],
+        "GeoFenceOpt": [
+          "Disable",
+          "Circle",
+          "Rectangle"
+        ],
+        "GeoFenceType": 0,
+        "InputIndex": 32,
+        "PolygonPoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 3
+          }
+        ],
+        "Radius": "0",
+        "RectanglePoints": [
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 1
+          },
+          {
+            "Latitude": "0",
+            "Longitude": "0",
+            "PointNo": 2
+          }
+        ]
+      }
+    ],
+    "GpsStatusDlgData": {
+      "ConnectDebounce": "10",
+      "HDOP": "100",
+      "ShortDebounce": "10",
+      "Timeout": "5"
+    },
+    "GsmJammingDlgData": {
+      "JammingDuration": "300",
+      "SendReportDisable": true,
+      "SendReportEnable": false
+    },
+    "HarshAccelerationDlgData": {
+      "Duration": "10",
+      "GForceThreshold": "200",
+      "SourceIndex": 0
+    },
+    "HarshBrakingdlgData": {
+      "Duration": "10",
+      "GForceThreshold": "225",
+      "SourceIndex": 0
+    },
+    "HarshCorneringDlgData": {
+      "Duration": "10",
+      "GForceThreshold": "200",
+      "SourceIndex": 0
+    },
+    "IdleDlgData": {
+      "Condition": 0,
+      "Duration": "10",
+      "IdleSpeed": "10"
+    },
+    "ImpactDlgData": {
+      "DebounceDelay": "5",
+      "ImpactThreshold": "10000"
+    },
+    "InputDlgDatas": [
+      {
+        "InputIndex": 0,
+        "OffDebounceTime": "0",
+        "OnDebounceTime": "7"
+      },
+      {
+        "InputIndex": 1,
+        "OffDebounceTime": "0",
+        "OnDebounceTime": "7"
+      },
+      {
+        "InputIndex": 2,
+        "OffDebounceTime": "0",
+        "OnDebounceTime": "7"
+      },
+      {
+        "InputIndex": 3,
+        "OffDebounceTime": "0",
+        "OnDebounceTime": "7"
+      }
+    ],
+    "MainPowerLostDlgData": {
+      "Duration": "10"
+    },
+    "MainPowerLowDlgData": {
+      "Duration": "3",
+      "PLOWMgr": null,
+      "PowerLowVoltage": "110"
+    },
+    "MotionDlgData": {
+      "DebounceOffDelay": null,
+      "DebounceOnDelay": "5",
+      "MotionOffThreshold": null,
+      "MotionOnThreshold": "150"
+    },
+    "ReportSettingViewDatas": [
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 101,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 102,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 103,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 104,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 105,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 106,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 107,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 108,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 109,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 110,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 111,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 112,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 113,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 114,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 115,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 116,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 117,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 118,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 119,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 120,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 121,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 122,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 123,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 124,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 125,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 126,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 127,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 128,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 129,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 130,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 131,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 132,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 133,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 134,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 135,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 136,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 137,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 138,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 139,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 140,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 141,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 142,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 143,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 144,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 145,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 146,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 147,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 148,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 149,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 150,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 151,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 152,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 153,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 154,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 155,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 156,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 157,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 158,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 159,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 160,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 161,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 162,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 163,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      },
+      {
+        "ActionIndex": 0,
+        "Enable": false,
+        "EventItems": [ ],
+        "InputIndex": 164,
+        "ScheduleItems": [ ],
+        "SmsTextIndex": 0
+      }
+    ],
+    "RpmOverRevvingDlgData": {
+      "OffDuration": "5",
+      "OffThreshold": "2000",
+      "OnDuration": "5",
+      "OnThreshold": "5000"
+    },
+    "SmsTextDlgDatas": [
+      {
+        "AlertStr": "",
+        "InputIndex": 1,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 2,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 3,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 4,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 5,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 6,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 7,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 8,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 9,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      },
+      {
+        "AlertStr": "",
+        "InputIndex": 10,
+        "SelectedUserDefFormatFields": [ ],
+        "UserDefFormatFields": [
+          {
+            "Index": 0,
+            "Value": "%AI1"
+          },
+          {
+            "Index": 1,
+            "Value": "%AT"
+          },
+          {
+            "Index": 2,
+            "Value": "%BV"
+          },
+          {
+            "Index": 3,
+            "Value": "%CE"
+          },
+          {
+            "Index": 4,
+            "Value": "%CN"
+          },
+          {
+            "Index": 5,
+            "Value": "%GL"
+          },
+          {
+            "Index": 6,
+            "Value": "%GQ"
+          },
+          {
+            "Index": 7,
+            "Value": "%GS"
+          },
+          {
+            "Index": 8,
+            "Value": "%GT"
+          },
+          {
+            "Index": 9,
+            "Value": "%HD"
+          },
+          {
+            "Index": 10,
+            "Value": "%HP"
+          },
+          {
+            "Index": 11,
+            "Value": "%IN"
+          },
+          {
+            "Index": 12,
+            "Value": "%LA"
+          },
+          {
+            "Index": 13,
+            "Value": "%LC"
+          },
+          {
+            "Index": 14,
+            "Value": "%LG"
+          },
+          {
+            "Index": 15,
+            "Value": "%MV"
+          },
+          {
+            "Index": 16,
+            "Value": "%OD"
+          },
+          {
+            "Index": 17,
+            "Value": "%OP"
+          },
+          {
+            "Index": 18,
+            "Value": "%PC"
+          },
+          {
+            "Index": 19,
+            "Value": "%RD"
+          },
+          {
+            "Index": 20,
+            "Value": "%RL"
+          },
+          {
+            "Index": 21,
+            "Value": "%RT"
+          },
+          {
+            "Index": 22,
+            "Value": "%SA"
+          },
+          {
+            "Index": 23,
+            "Value": "%ST"
+          },
+          {
+            "Index": 24,
+            "Value": "%TP1"
+          },
+          {
+            "Index": 25,
+            "Value": "%TP2"
+          },
+          {
+            "Index": 26,
+            "Value": "%UI"
+          },
+          {
+            "Index": 27,
+            "Value": "%VS"
+          }
+        ]
+      }
+    ],
+    "SpeedingDlgDatas": [
+      {
+        "InputIndex": 1,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 2,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 3,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 4,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 5,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 6,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 7,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 8,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 9,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      },
+      {
+        "InputIndex": 10,
+        "OffDuration": "10",
+        "OffThreshold": "90",
+        "OnDuration": "10",
+        "OnThreshold": "100"
+      }
+    ],
+    "TemperatureSensorDlgDatas": [
+      {
+        "HoldingDuration": "5",
+        "InputIndex": 1,
+        "MaxTempRange": "0",
+        "MinTempRange": "0"
+      },
+      {
+        "HoldingDuration": "5",
+        "InputIndex": 2,
+        "MaxTempRange": "0",
+        "MinTempRange": "0"
+      }
+    ],
+    "TowDlgData": {
+      "Contition": 0,
+      "Duration": "3",
+      "TowSpeed": "30"
+    },
+    "TrackingCtrlDlgDatas": [
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 1,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 2,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 3,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 4,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 5,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 6,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 7,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 8,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 9,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      },
+      {
+        "AccOffTime": "0",
+        "DistanceSpan": "100",
+        "DstBluetooth": false,
+        "DstGprs": false,
+        "DstSerial": false,
+        "DstSms": false,
+        "DstUssd": false,
+        "EngineOffTime": "0",
+        "HeadingChangeDegree": "15",
+        "InputIndex": 10,
+        "MinSpeed": "0",
+        "NotTrackingForever": false,
+        "Schedule1": false,
+        "Schedule2": false,
+        "Schedule3": false,
+        "Schedule4": false,
+        "Schedule5": false,
+        "Schedule6": false,
+        "Schedule7": false,
+        "Schedule8": false,
+        "TimeSpan": "30",
+        "TrackingTimes": "0",
+        "TimeMode": false,
+        "DistanceMode": false,
+        "AccStatus": false,
+        "HeadingChangeMode": false,
+        "MinSpeedMode": false,
+        "EngineStatus": false,
+        "MotionStatus": false,
+        "TrackingWhenAllMet": false,
+        "TrackingWhenAnyMet": false,
+        "ResetTrackingTimer": false,
+        "ReportInDistanceMode": false,
+        "GenerateReportGPS": false,
+        "ReportInHeadingChangeMode": false
+      }
+    ],
+    "VehicleStopDlgData": {
+      "StopDuration": "1440"
+    }
+  }
+}
